@@ -32,11 +32,11 @@ const Signup = () => {
         <PasswordInput classname="input-field" label="Password" name="pass" />
         <span className="text-gray paragraph">
           By creating this account, I am agreeing to the{" "}
-          <a className="link bold" href="#">
+          <a className="link bold" href="www.google.com">
             Privacy Policy
           </a>{" "}
           and{" "}
-          <a className="link bold" href="#">
+          <a className="link bold" href="www.google.com">
             Terms of Use
           </a>
           .
@@ -47,7 +47,7 @@ const Signup = () => {
       </form>
       <span className="text-gray">
         Already have an account?{" "}
-        <a className="link bold" href="#">
+        <a className="link bold" href="www.google.com">
           Login
         </a>{" "}
         instead
